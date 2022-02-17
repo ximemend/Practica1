@@ -1,1 +1,2 @@
-Este es el primer archivo del ejecicio de git
+Este es el primer archivo del ejecicio de git-
+Modificación al documento 1
